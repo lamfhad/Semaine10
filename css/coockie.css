@@ -1,0 +1,6 @@
+.button_desactiver {
+        cursor: default;
+        pointer-events: none;
+        color: #c0c0c0;
+        background-color: #ffffff;
+}
