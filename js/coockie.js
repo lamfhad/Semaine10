@@ -2,7 +2,7 @@ $bouton=document.getElementById("bouton");
 $affichage=document.getElementById("affichage");
 $multiplicateur=document.getElementById("multiplicateur");
 $autoclick=document.getElementById("autoclick");
-score = 199;
+score = 0;
 multiplicateur =1;
 prix=10;
 var IntervalId;
